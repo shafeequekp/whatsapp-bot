@@ -16,3 +16,4 @@ sqlparse
 twilio
 urllib3
 Werkzeug
+psycopg2==2.9.5
